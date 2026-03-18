@@ -47,7 +47,7 @@ export default function Hero() {
           </div>
 
           <div className="rounded-[28px] border border-white/10 bg-white/5 p-5 shadow-2xl shadow-black/20 backdrop-blur sm:translate-y-10">
-            <div className="mb-4 h-56 rounded-2xl bg-gradient-to-br from-violet-400/30 via-indigo-500/10 to-zinc-800" />
+            <img src="https://images.unsplash.com/photo-1705475025559-ad8efdedc74f?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="impressora 3d" class="mb-4 h-56 w-full object-cover rounded-2xl"></img>
             <h3 className="text-lg font-semibold">Personalizados</h3>
             <p className="mt-2 text-sm leading-6 text-zinc-300">
               Projetos feitos sob encomenda com acabamento manual e atenção aos

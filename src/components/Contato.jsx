@@ -19,17 +19,17 @@ export default function Contato() {
           <div className="mt-8 space-y-4 text-sm text-zinc-300">
             <div className="rounded-2xl border border-white/10 bg-white/5 p-4">
               <p className="font-medium text-white">Instagram</p>
-              <p>@seuatelie3d</p>
+              <p>@larissartes3d</p>
             </div>
 
             <div className="rounded-2xl border border-white/10 bg-white/5 p-4">
               <p className="font-medium text-white">WhatsApp</p>
-              <p>(11) 99999-9999</p>
+              <a href="#">(11) 97054-7269</a>
             </div>
 
             <div className="rounded-2xl border border-white/10 bg-white/5 p-4">
               <p className="font-medium text-white">E-mail</p>
-              <p>contato@seuatelie3d.com.br</p>
+              <p>larissartes3d@gmail.com</p>
             </div>
           </div>
         </div>
@@ -85,7 +85,7 @@ export default function Contato() {
       </div>
 
       <footer className="border-t border-white/10 px-6 py-6 text-center text-sm text-zinc-400">
-        © 2026 Arte em Camadas — Impressão 3D com acabamento artesanal.
+        © 2026 Arte em Camadas — Impressão 3D com acabamento artesanal. <br /> Desenvolvido por <a href="https://adler-neves.vercel.app/">AdlerNeves.Dev</a>
       </footer>
     </section>
   );

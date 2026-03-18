@@ -5,24 +5,28 @@ export default function Loja() {
       preco: "R$ 79,90",
       descricao:
         "Peças feitas em impressão 3D com acabamento manual e pintura detalhada.",
+      imagem: "https://images.unsplash.com/photo-1660292785457-ef25cffef35c?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       nome: "Decoração Geek",
       preco: "R$ 119,90",
       descricao:
         "Itens decorativos exclusivos para quarto, escritório ou setup.",
+      image: "https://images.unsplash.com/photo-1702138129409-7b4ff859ae5d?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       nome: "Colecionável Premium",
       preco: "R$ 149,90",
       descricao:
         "Modelos com atenção aos mínimos detalhes, ideais para presente ou coleção.",
+      imagem: "https://images.unsplash.com/photo-1658270600988-7e6a66ed253e?q=80&w=363&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       nome: "Peça Sob Encomenda",
       preco: "Sob consulta",
       descricao:
         "Projeto personalizado com pintura, acabamento fino e detalhes únicos.",
+      imagem: "https://images.unsplash.com/photo-1606663889134-b1dedb5ed8b7?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
   ];
 
